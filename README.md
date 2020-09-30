@@ -37,8 +37,7 @@ The portfolio is a spot to contain images of projects the user creates, ideally 
 ## Resources Used
 
 bootstrap for the javascript employed and some of the css  
-http://www.cheeseipsum.co.uk/ for cheese ipsum  
-Freepick.com for background cheese  
+Freepick.com for background cheese, which is more a personal touch.  
 
 
 ## Further Development Plans
