@@ -6,11 +6,20 @@ livesite: https://dguthmann.github.io/first-portfolio/index.html
 
 ## List of Contents
 
-index.html
-contact.html
-portfolio.html
-style.css
-README.md
+index.html  
+portfolio.html  
+style.css  
+README.md  
+LICENSE   
+DavidGuthmann-resume.pdf  
+### images
+dguthmann.png  
+pwgss.png  
+vacass.png  
+venuss.png  
+worscss.png  
+screenshotindex.png  
+screenshotport.png  
 
 ## Basic Overview of Project
 
@@ -19,8 +28,12 @@ It relies on a setup of two html files, with a base css styling all three of the
 The index is the base page, and can be used to include personal information of the user.  
 The portfolio is a spot to contain images of projects the user creates, ideally adding on click links to said projects.  
 
+## Screenshot of Website
 
-## resources Used
+![Site Screenshot](images/screenshotindex.png)  
+![Site Screenshot](images/screenshotport.png)
+
+## Resources Used
 
 bootstrap for the javascript employed and some of the css  
 http://www.cheeseipsum.co.uk/ for cheese ipsum  
