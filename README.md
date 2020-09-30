@@ -31,6 +31,7 @@ The portfolio is a spot to contain images of projects the user creates, ideally 
 ## Screenshot of Website
 
 ![Site Screenshot](images/screenshotindex.png)  
+  
 ![Site Screenshot](images/screenshotport.png)
 
 ## Resources Used
