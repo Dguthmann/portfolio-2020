@@ -2,7 +2,7 @@
 ### Author: David Guthmann
 
 github: https://github.com/Dguthmann/  
-livesite: https://dguthmann.github.io/first-portfolio/index.html
+livesite: https://dguthmann.github.io/portfolio-2020/
 
 ## List of Contents
 
