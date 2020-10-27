@@ -47,6 +47,7 @@ Changing out projects for more complex and defining ones, altering how things ar
 
 ## Changelog
 
+2020-10-27: Adding of Gerome the Gnome NPC character creator to highlighted projects
 2020-09-29: Adding of personal information, links and screenshots of projects on the portfolio page, links to my github, linkedin, and a pdf of my resume  
 2020-09-09: Addition of more comments to the file, and writing of README  
 2020-09-08: Bug Fixing mainly of the footer, and the projects of the portfolio page staying within their container  
